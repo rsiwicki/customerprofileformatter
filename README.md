@@ -31,12 +31,12 @@ get 'profiles', 'user-1' , 'profile:data:c(Java::ExampleAvro::CustomerProfileFor
 Before
 ======
 
-![Before](http://github.mtv.cloudera.com/rsiwicki/customerprofileformatter/raw/master/images/before_custom_formatter_use.png)
+![Before](http://github.com/rsiwicki/customerprofileformatter/raw/master/images/before_custom_formatter_use.png)
 
 After
 =====
 
-![After](http://github.mtv.cloudera.com/rsiwicki/customprofileformatter/raw/master/images/after_custom_formatter_use.png)
+![After](http://github.com/rsiwicki/customerprofileformatter/raw/master/images/after_custom_formatter_use.png)
 
 
 
