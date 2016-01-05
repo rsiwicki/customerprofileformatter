@@ -1,0 +1,7 @@
+.idea/
+target/
+*.iml
+src/main/java/com/isban/orange/avro/
+.DS_Store
+org.junit*/
+dist/
